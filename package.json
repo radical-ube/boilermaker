@@ -1,0 +1,24 @@
+{
+  "name": "boilermaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radical-ube/boilermaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radical-ube/boilermaker/issues"
+  },
+  "homepage": "https://github.com/radical-ube/boilermaker#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "volleyball": "^1.5.1"
+  }
+}
